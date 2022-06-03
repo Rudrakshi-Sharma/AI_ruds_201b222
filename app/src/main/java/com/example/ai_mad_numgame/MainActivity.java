@@ -3,6 +3,7 @@ package com.example.ai_mad_numgame;
    App will show your last performance at the start of the activity. New Tournament will start from
    all performance set to -1 again. And your new performance will be visible, when you return back to game
  */
+/*we will using machine learning in the later part of the project*/
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
